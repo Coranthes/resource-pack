@@ -1,0 +1,7 @@
+# Image Editing
+*.pdn
+*.psd
+
+# 3D Modeling
+*.blend
+*.bbmodel
