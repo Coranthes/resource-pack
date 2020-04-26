@@ -5,3 +5,7 @@
 # 3D Modeling
 *.blend
 *.bbmodel
+
+# Audio Editing
+*.aup
+*.flp
